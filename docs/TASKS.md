@@ -8,7 +8,7 @@ Decisions resolved before implementation:
 - Knowledge base: fictional company internal FAQ — a reviewer can tell instantly that answers came from retrieval and not from model pretraining.
 - Language: English throughout (KB, prompts, output, code, docs).
 - Tests: minimal `pytest` covering pure functions only (chunking, cosine similarity) — no API key, no mocks, fast.
-- Git: deferred by the user (re-confirmed 2026-07-27). The Definition of Done item "repository ready for GitHub submission" therefore remains open by choice.
+- Git: initialised and pushed on 2026-07-28, closing the Definition of Done item "repository ready for GitHub submission". `.env` is gitignored and has never been committed.
 - App invocation: question as CLI argument, falling back to a single `input()` prompt. No interactive loop (would invite conversation memory, which is banned).
 - Retrieval: real LLM tool-calling, single bounded turn. See `DECISIONS.md`.
 
