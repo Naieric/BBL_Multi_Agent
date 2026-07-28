@@ -1,0 +1,39 @@
+Aurora Dynamics is a robotics company founded in 2019 in Tallinn, Estonia. It designs and manufactures autonomous mobile robots for indoor warehouse logistics. The company employs 340 people across three offices and has been profitable since the second quarter of 2023.
+
+The company's flagship product is the Halden AMR, an autonomous mobile robot for pallet transport. The Halden weighs 210 kilograms, carries a maximum payload of 1,500 kilograms, and operates continuously for 11 hours on a single charge. It navigates using a combination of LiDAR and visual odometry, and does not require floor markers or magnetic tape.
+
+The Halden AMR is sold in two configurations. The Halden S is the standard model, priced at 42,000 euros per unit. The Halden X adds a heated cargo bay and extended cold-storage battery chemistry, and is priced at 58,000 euros per unit. Both configurations ship with the same navigation stack.
+
+Aurora Dynamics also sells Beacon, a fleet management software platform. Beacon coordinates routing, charging schedules, and traffic control for fleets of up to 200 robots in a single facility. Beacon is licensed per robot at 90 euros per robot per month, billed annually.
+
+The standard hardware warranty on all Aurora Dynamics robots is 24 months from the date of delivery. The warranty covers manufacturing defects, drive motor failure, and battery capacity degradation below 70 percent of rated capacity. It does not cover collision damage, water ingress, or damage caused by operating the robot outside its rated temperature range.
+
+An extended warranty is available for purchase within 90 days of delivery. The extended warranty adds 24 months of coverage beyond the standard period, for a total of 48 months, and costs 15 percent of the robot's original purchase price.
+
+Aurora Dynamics offers three support tiers. Bronze support includes email support with a 48-hour response target during business days. Silver support includes email and phone support with an 8-hour response target. Gold support includes 24/7 phone support with a 2-hour response target and an on-site engineer dispatched within 72 hours for critical failures.
+
+A failure is classified as critical when it halts all robot operations at a customer site, or when it presents a safety risk to personnel. Non-critical failures include single-robot faults where the remainder of the fleet continues operating, and cosmetic or software issues that do not stop production.
+
+Customers may return unopened hardware within 30 days of delivery for a full refund. Robots that have been commissioned on site are not eligible for return, but may be exchanged for a different configuration within 60 days, subject to a 12 percent restocking fee.
+
+Aurora Dynamics operates a certified refurbishment program. Robots returned under exchange are reconditioned, re-certified to original specification, and resold at 65 percent of the new unit price. Refurbished robots carry a 12-month warranty rather than the standard 24 months.
+
+Standard lead time for new Halden orders is 10 weeks from purchase order to delivery within the European Union. Deliveries outside the European Union have a lead time of 16 weeks. Orders of more than 25 units are scheduled in batches and may extend beyond the standard lead time.
+
+The Beacon platform exposes a REST API for integration with warehouse management systems. API access is included with every Beacon license at no additional cost. Rate limits are set at 1,000 requests per minute per customer account.
+
+Beacon supports single sign-on through SAML 2.0 and OpenID Connect. Single sign-on is available only on the Enterprise plan, which starts at 25 robots. Customers below that threshold authenticate with email and password plus mandatory two-factor authentication.
+
+Aurora Dynamics retains robot telemetry data for 18 months, after which it is permanently deleted. Customers may request an export of their telemetry data at any time in CSV or Parquet format. Data is stored in data centres located within the European Union and is never transferred outside it.
+
+The company holds ISO 9001 and ISO 27001 certifications. Its robots are certified to the EN 1525 safety standard for driverless industrial trucks. Aurora Dynamics completes an independent penetration test of the Beacon platform annually.
+
+New employees at Aurora Dynamics receive 28 days of paid annual leave, rising to 33 days after five years of service. The company operates a hybrid work policy requiring three days per week on site for engineering staff and two days per week for all other roles.
+
+Aurora Dynamics runs a formal internship programme twice a year, in spring and autumn. Each cohort takes 12 interns, and internships last 20 weeks. Approximately 60 percent of interns receive a full-time offer at the end of the programme.
+
+The company's research team is developing an outdoor-capable variant of the Halden, internally codenamed Vantage. Vantage is not yet commercially available and has no announced release date. Customer enquiries about Vantage are handled by the sales engineering team.
+
+Aurora Dynamics does not sell directly to customers in North America. Sales in the United States and Canada are handled exclusively through its distribution partner, Continental Automation Group, which also provides first-line support in that region.
+
+Training for customer maintenance staff is delivered as a three-day on-site course. The course covers routine maintenance, battery handling, and first-line fault diagnosis. It is priced at 3,200 euros per session for up to eight participants, and one session is included free with any order of ten or more robots.
